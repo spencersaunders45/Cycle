@@ -119,24 +119,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\spenc\\.nuget\\packages\\": {}
+    "C:\\Users\\Spencer Saunders\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spenc\\OneDrive\\College\\Spring 2022\\CSE 210\\Cycle\\Cycle.csproj",
+      "projectUniqueName": "C:\\Users\\Spencer Saunders\\OneDrive\\College\\Spring 2022\\CSE 210\\Cycle\\Cycle.csproj",
       "projectName": "Cycle",
-      "projectPath": "C:\\Users\\spenc\\OneDrive\\College\\Spring 2022\\CSE 210\\Cycle\\Cycle.csproj",
-      "packagesPath": "C:\\Users\\spenc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spenc\\OneDrive\\College\\Spring 2022\\CSE 210\\Cycle\\obj\\",
+      "projectPath": "C:\\Users\\Spencer Saunders\\OneDrive\\College\\Spring 2022\\CSE 210\\Cycle\\Cycle.csproj",
+      "packagesPath": "C:\\Users\\Spencer Saunders\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Spencer Saunders\\OneDrive\\College\\Spring 2022\\CSE 210\\Cycle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\spenc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Spencer Saunders\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -175,7 +177,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
